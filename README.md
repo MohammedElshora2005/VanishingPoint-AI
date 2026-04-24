@@ -72,6 +72,8 @@ Vanishing points are points in an image where parallel lines appear to meet. The
 ### Step 3: Run the App
   streamlit run perception.py
 
+📸 Screenshots
+![Vanishing Points Analysis](vanishing_points_result.jpg)
 
 📖 How to Use
 1- Upload your image (JPG, PNG, BMP)
